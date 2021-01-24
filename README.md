@@ -1,12 +1,12 @@
-![]()
+![](https://raw.githubusercontent.com/Matthewpco/WordPress-Portfolio/master/img/WP-portfolio-ss1.png)
 
-# This is Earth to Home a WordPress website made for a natural food and medicine small business.
+# This is a WordPress site made to showcase a developers portfolio and blog.
 
 <br>
 
 ## 🙋‍♂️ Introduction 
 
-- This is a Custom WordPress template made for a small retail store to have a web presence and boost their business.   
+- This is a Custom WordPress template made for developers to showcase their portfolio as well as a home fo rtheir blog.   
 
 <br>
 
@@ -22,6 +22,6 @@
 
 ## 📜 Features
 - Custom landing page
-- Custom full width products page
-- Blog with a custom widget sidebar 
-- Room to run ads on blog sidebar
+- Custom extensions for projects, experience, and blog.
+- Modern yet simple design layout
+- Showcase projects with css grid
