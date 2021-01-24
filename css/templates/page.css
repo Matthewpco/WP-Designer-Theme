@@ -1,0 +1,10 @@
+#page-template {
+    padding: 20px;
+    margin: 100px;
+    background: seagreen;
+}
+#page-template .container {
+    padding: 15px;
+    margin: 100px;
+    background: palevioletred !important;
+}
